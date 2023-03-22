@@ -2,13 +2,13 @@
   "name": "veracodecontainerscanningaction",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/5l1D3R/VeracodeContainerScanningAction.git"
+    "url": "git+https://github.ßcom/5l1D3R/VeracodeContainerScanningAction.git"
   },
   "keywords": [],
   "author": "",
