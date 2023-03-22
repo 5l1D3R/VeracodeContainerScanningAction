@@ -7,11 +7,11 @@ import { exec, execSync, spawn } from "child_process";
 // get input params
 let parameters:any = {}
 
-const vid = core.getInput('vid', {required: true} );
-parameters['vid'] = vid
+//const vid = core.getInput('vid', {required: true} );
+//parameters['vid'] = vid
 
-const vkey = core.getInput('vkey', {required: true} );
-parameters['vkey'] = vkey
+//const vkey = core.getInput('vkey', {required: true} );
+//parameters['vkey'] = vkey
 
 export function downloadCli () {
     let commandOutput
